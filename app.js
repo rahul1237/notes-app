@@ -24,3 +24,6 @@ const note = require('./notes')
 msg = note()
 
 console.log(msg);
+
+
+// MAIN PROJECT!
